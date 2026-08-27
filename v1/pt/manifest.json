@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "country": "PT",
+  "generated_at": "2026-08-27T16:48:04+00:00",
+  "station_count": 484,
+  "station_count_with_price": 423,
+  "data_url": "stations-1cc9b8b19a.json",
+  "min_app_version": "1.0.0",
+  "message": null,
+  "license": "ODbL-1.0",
+  "attribution": "Preços: DGEG · Localizações: © contribuidores do OpenStreetMap",
+  "sources": [
+    {
+      "id": "dgeg",
+      "status": "ok",
+      "station_count": 423,
+      "fetched_at": "2026-08-27T16:48:04+00:00"
+    },
+    {
+      "id": "dgeg_petrol",
+      "status": "ok",
+      "station_count": 409,
+      "fetched_at": "2026-08-27T16:48:04+00:00"
+    },
+    {
+      "id": "osm",
+      "status": "ok",
+      "station_count": 449,
+      "fetched_at": "2026-08-27T16:48:04+00:00"
+    }
+  ]
+}

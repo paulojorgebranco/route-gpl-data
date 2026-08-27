@@ -1,0 +1,14 @@
+Os dados neste directório são uma base de dados derivada, construída a partir de:
+
+  * DGEG — Direção-Geral de Energia e Geologia (preços declarados pelos operadores)
+  * OpenStreetMap (localizações, horários e telefones) — © contribuidores do OpenStreetMap
+
+O OpenStreetMap é distribuído sob a Open Database License (ODbL), que é
+share-alike. Por isso este ficheiro derivado é também distribuído sob a ODbL:
+
+  https://opendatacommons.org/licenses/odbl/1-0/
+
+Isto cobre a base de dados, não o software que a consome.
+
+Este projecto não é afiliado, patrocinado nem aprovado pela DGEG nem pela
+OpenStreetMap Foundation.
