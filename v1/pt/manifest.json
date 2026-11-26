@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "country": "PT",
-  "generated_at": "2026-11-25T17:08:06+00:00",
-  "station_count": 490,
-  "station_count_with_price": 442,
-  "data_url": "stations-3c60b219b0.json",
+  "generated_at": "2026-11-26T01:47:37+00:00",
+  "station_count": 436,
+  "station_count_with_price": 436,
+  "data_url": "stations-6f0083513a.json",
   "min_app_version": "1.0.0",
   "message": null,
   "license": "ODbL-1.0",
@@ -13,20 +13,20 @@
     {
       "id": "dgeg",
       "status": "ok",
-      "station_count": 442,
-      "fetched_at": "2026-11-25T17:08:06+00:00"
+      "station_count": 436,
+      "fetched_at": "2026-11-26T01:47:37+00:00"
     },
     {
       "id": "dgeg_petrol",
       "status": "ok",
-      "station_count": 421,
-      "fetched_at": "2026-11-25T17:08:06+00:00"
+      "station_count": 416,
+      "fetched_at": "2026-11-26T01:47:37+00:00"
     },
     {
       "id": "osm",
-      "status": "ok",
-      "station_count": 449,
-      "fetched_at": "2026-11-25T17:08:06+00:00"
+      "status": "failed",
+      "station_count": 0,
+      "fetched_at": "2026-11-26T01:47:37+00:00"
     }
   ]
 }
